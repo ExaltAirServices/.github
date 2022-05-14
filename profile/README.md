@@ -10,9 +10,9 @@ Eas - Exalt Air Services, Is A Comany Wich Is Making Future By Making Such A Gre
 - So Much More....!
 
 ## Team
-- [test](https://github.com/AVS1508)
+- [ItzCrazyKns](https://github.com/ItzCrazyKns)
   <details>
-    <summary>Preview</summary>
+    <summary>Click Here To See Kns's Profile</summary>
   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
       Hi there, I Am Kns 👋ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
      Bot Dev, Backend, Fontend Dev, Bash Dev, Web Dev, Pterodacyl Dev And SO Much More!ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
