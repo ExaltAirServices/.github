@@ -11,13 +11,9 @@ Eas - Exalt Air Services, Is A Comany Wich Is Making Future By Making Such A Gre
 
 ## Team
 - [test](https://github.com/AVS1508)
-72
   <details>
-73
     <summary>Preview</summary>
-74
-    <img src="https://github.com/ItzCrazyKns/ItzCrazyKns/blob/main/README.md">
-75
+    <a href="https://github.com/ItzCrazyKns"><img src="https://github.com/ItzCrazyKns/ItzCrazyKns/blob/main/README.md" alt="Prajwal433's GitHub stats" /></a>
   </details>
 <!--
 
