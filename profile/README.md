@@ -9,7 +9,7 @@ Eas - Exalt Air Services, Is A Comany Wich Is Making Future By Making Such A Gre
 - [VET](https://soon.exaltairservices.ml)
 - So Much More....!
 
-<a href="https://github.com/ItzCrazyKns"><img src="https://github-readme-stats.vercel.app/api?username=ExaltAirServicess&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Prajwal433's GitHub stats" /></a>
+<a href="https://github.com/ItzCrazyKns"><img src="https://github-readme-stats.vercel.app/api?username=ExaltAirServices&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Prajwal433's GitHub stats" /></a>
 
 <!--
 
