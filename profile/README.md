@@ -13,12 +13,12 @@ Eas - Exalt Air Services, Is A Comany Wich Is Making Future By Making Such A Gre
 - [test](https://github.com/AVS1508)
   <details>
     <summary>Preview</summary>
-    #### Hi there, I Am Kns 👋    
-    #### Bot Dev, Backend, Fontend Dev, Bash Dev, Web Dev, Pterodacyl Dev And SO Much More!
+      Hi there, I Am Kns 👋                                                                                                                                            
+     Bot Dev, Backend, Fontend Dev, Bash Dev, Web Dev, Pterodacyl Dev And SO Much More!
 
      - Its 2 Year Since I Writed The First Line Of MY Code:zap:
      - LOL
- 
+                                                                                      
      <a href="https://github.com/ItzCrazyKns"><img src="https://github-readme-stats.vercel.app/api?username=ItzCrazyKns&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Prajwal433's GitHub stats" /></a>
 
      <a href="https://github.com/ItzCrazyKns"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzCrazyKns&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
